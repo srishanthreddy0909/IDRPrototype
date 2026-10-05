@@ -1,0 +1,21 @@
+# Android / Gradle generated files
+.gradle/
+build/
+app/build/
+
+# Android Studio
+.idea/
+*.iml
+
+# Local machine configuration
+local.properties
+
+# Kotlin generated files
+.kotlin/
+
+# Backup copies
+backup-before-*/
+
+# OS files
+.DS_Store
+Thumbs.db
